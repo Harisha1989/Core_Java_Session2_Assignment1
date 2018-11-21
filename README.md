@@ -1,2 +1,2 @@
-# Core_Java_Session2_Assignment2
-Core Java Session 2 Assignment 2
+# Core_Java_Session2_Assignment1
+Core Java Session 2 Assignment 1
